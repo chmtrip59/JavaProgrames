@@ -1,3 +1,4 @@
+package SwapProgram;
 import java.util.*;//Import Scaaner method from util class
 
 public class Swap {
@@ -17,5 +18,6 @@ public class Swap {
         System.out.println("Swapping done...");
         System.out.println("Here is the swaped value of A: "+a);
         System.out.println("Here is the swaped value of B: "+b);
+
     }
 }

@@ -23,7 +23,7 @@ class pali1
         if(inside.equals(outside)){
             System.out.println("The input string/number is a palindrome: "+outside);
         }else{
-            System.err.println("INput is not palindrome");
+            System.err.println("Input is not palindrome ");
         }
 
    
