@@ -2,7 +2,7 @@
 
 
 import java.util.*;   
-class pali1  
+class palindrome  
 {  
    public static void main(String args[])  
    {

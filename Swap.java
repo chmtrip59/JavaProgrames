@@ -1,4 +1,4 @@
-package SwapProgram;
+
 import java.util.*;//Import Scaaner method from util class
 
 public class Swap {

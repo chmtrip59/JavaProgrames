@@ -1,5 +1,4 @@
-
-public class fibonacciSeries {
+  public class fibonacciSeries {
   public static void main(String args[]){
 
     int n1=0;

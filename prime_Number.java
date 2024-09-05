@@ -1,4 +1,4 @@
-package primeNumber;
+
 
 //Prime Number is : 2,3,5,7,11,13,17
 public class prime_Number {
