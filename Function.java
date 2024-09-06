@@ -6,7 +6,7 @@ public class Function {
         greetUser();
         System.out.println("Method calling complete");
         greetUser();
-
+        
     }
 
     public static  void greetUser() {
