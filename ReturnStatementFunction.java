@@ -5,8 +5,8 @@ public class ReturnStatementFunction {
     public static void main(String[] args) {
 
         greet();
-        int first = readNumber();
-        int second = readNumber();
+        int first = readNumber(); //+ 1;
+        int second = readNumber(); // + 2;
         
         int sum = first + second ;
         System.out.println("Sum of the number is: "+sum);

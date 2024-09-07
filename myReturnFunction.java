@@ -12,9 +12,10 @@ public class myReturnFunction {
 
         System.out.print("Please enter the number : ");
 
-        int inputNumber = input.nextInt();
+        // int inputNumber = input.nextInt();
 
-        return inputNumber;
+        // return inputNumber;// can written as given below
+        return input.nextInt();
     }
 
     public static void main(String[] args) {
