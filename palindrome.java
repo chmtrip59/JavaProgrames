@@ -20,7 +20,7 @@ class palindrome
 
         outside = outside + inside.charAt(i);
     }
-        if(inside.equals(outside)){
+        if(inside.equals(outside)){//Check to know the string character can become palindrome
             System.out.println("The input string/number is a palindrome: "+outside);
         }else{
             System.err.println("Input is not palindrome ");
