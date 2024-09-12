@@ -11,7 +11,7 @@ public class Function {
 
     public static  void greetUser() {
         System.out.println("Good Morning from Golu ");
-
+       
     }
    
 }
