@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class LCM{
+public class LeastCommonMultiple{
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
         System.out.println("Welcome to LCM calculator: ");
