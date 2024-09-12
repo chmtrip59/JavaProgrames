@@ -25,6 +25,6 @@ public class LCM{
             i++ ;
 
         }
-        return 0 ;//Unreacheable In case loop become infinite loop 
+       // return 0 ;//Unreacheable In case loop become infinite loop 
     }
 }
