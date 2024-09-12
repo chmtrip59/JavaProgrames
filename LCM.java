@@ -14,7 +14,7 @@ public class LCM{
     }
     public static int myLCM(int first , int second){
         int i = 1;
-        while(true){
+        while(true){//(i <= second)
             
             int myNumber = first * i ;
 
