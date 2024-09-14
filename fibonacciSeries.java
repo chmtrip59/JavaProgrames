@@ -11,7 +11,7 @@
 
 
     //Loop will starts from 2 bcz we have 0 and 1 already 
-    for(int i = 2; i<count;++i){
+    for(int i = 2; i < count; ++i){
 
         n3 = n1+n2;// Here n3 value is 1 = 0+1
         System.out.print(" "+n3);//prints 1
