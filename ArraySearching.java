@@ -20,7 +20,7 @@ public class ArraySearching {
 
     }
 
-    private static boolean isFound(int[] arr, int num) {
+    public static boolean isFound(int[] arr, int num) {
         int i = 0;
         while(i < arr.length){
             if (arr[i] == num) {
