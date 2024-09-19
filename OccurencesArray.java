@@ -30,7 +30,7 @@ public class OccurencesArray {
 
             if (myArr[i] == numb) {
 
-                System.out.println("Your number is present");
+                // System.out.println("Your number is present");
                 occ++;
             }
 

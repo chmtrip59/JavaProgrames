@@ -12,10 +12,22 @@ public class ArrayUtility {
 
         int i = 0;
         while (i < size) {
-            System.out.println("Please enter the element no." + (i+1) + ": ");
+            System.out.print("Please enter the element no." + (i+1) + ": ");
             nums[i] = in.nextInt();//iterate the nput of a number from the user
             i++;            
         }
         return nums;
+    }
+
+    public static void displayArray(int[] numArr){
+        int i = 0;
+
+        while(i < numArr.length){
+
+            System.out.println(numArr[i] + " ");
+
+            i++;
+        }
+        System.out.println();
     }
 }
